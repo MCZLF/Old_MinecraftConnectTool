@@ -170,6 +170,8 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="ILMerge.props" />
+    <None Include="LICENSE" />
+    <None Include="LICENSE-thirdparty" />
     <None Include="packages.config" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
@@ -205,6 +207,7 @@
   <ItemGroup>
     <Content Include="IconGroup3000.ico" />
     <Content Include="ILMergeOrder.txt" />
+    <None Include="README.md" />
     <None Include="Resources\close.png" />
     <None Include="Resources\close.bmp" />
   </ItemGroup>
