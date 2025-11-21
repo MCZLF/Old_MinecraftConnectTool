@@ -25,7 +25,7 @@ namespace MinecraftConnectTool
             InitializeComponent();
         }
         //修改updateverison
-        public static readonly string version = "0.0.5.200";
+        public static readonly string version = "0.0.5.200";//测试提交
         private void Form1_Load(object sender, EventArgs e)
         {
             Probe.EnablePopup = false;
